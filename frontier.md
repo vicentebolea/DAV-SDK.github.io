@@ -140,7 +140,7 @@ for the CCE and AMD compilers, in particular how they wrap MPI and HIP.
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center">✅</td><!-- GCC -->
       <td class="verified" style="text-align: center" markdown="span">([✅](#vtkm_rocm_openmp))</td><!-- GCC + ROCm -->
@@ -187,9 +187,9 @@ for the CCE and AMD compilers, in particular how they wrap MPI and HIP.
 
 <span id="visit_vtkm">**VisIt**</span> - VTK-m enabled GPU support for CUDA and ROCm is available VisIt, but is not officially tested as part of the DAV-SDK due to ([HDF5 conflict](#visit_hdf5_conflict)) only recently being resolved.
 
-<span id="vtkm_rocm_openmp">**VTK-m**</span> - Spack ROCm does not provide OpenMP correclty for VTKm HIP modules.
+<span id="vtkm_rocm_openmp">**Viskores**</span> - Spack ROCm does not provide OpenMP correclty for Viskores HIP modules.
 
-<span id="vtkm_cray_wrapper_workaround">**VTK-m**</span> - Frontier requires additional workarounds in the Spack recipe for VTKm that are specific to the Cray wrappers on Frontier. [patch](https://github.com/spack/spack/pull/34427)
+<span id="vtkm_cray_wrapper_workaround">**Viskores**</span> - Frontier requires additional workarounds in the Spack recipe for VTKm that are specific to the Cray wrappers on Frontier. [patch](https://github.com/spack/spack/pull/34427)
 
 <span id="zfp_rocm">**ZFP**</span> - ZFP ROCm support is under development.
 
@@ -202,5 +202,5 @@ for the CCE and AMD compilers, in particular how they wrap MPI and HIP.
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
 [ZFP]: https://computing.llnl.gov/projects/zfp

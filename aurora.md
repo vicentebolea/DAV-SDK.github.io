@@ -100,7 +100,7 @@ for the oneAPI compilers, in particular how they wrap MPI and SYCL.
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center" markdown="span">([✅](#verified_on_sunspot))</td><!-- GCC -->
       <td class="verified" style="text-align: center" markdown="span">([✅](#verified_on_sunspot))</td><!-- oneAPI -->
@@ -137,7 +137,7 @@ for the oneAPI compilers, in particular how they wrap MPI and SYCL.
 
 <span id="visit_vtkm">**VisIt**</span> - VisIt VTK-m enabled GPU support for CUDA and ROCm is available VisIt, but is not officially tested as part of the DAV-SDK due to ([HDF5 conflict](#visit_hdf5_conflict)) only recently being resolved.
 
-<span id="vtkm_sycl">**VTK-m**</span> - VTK-M oneAPI using SYCL.
+<span id="vtkm_sycl">**Viskores**</span> - VTK-M oneAPI using SYCL.
 
 <span id="zfp_sycl">**ZFP**</span> - ZFP oneAPI using SYCL.
 
@@ -150,6 +150,6 @@ for the oneAPI compilers, in particular how they wrap MPI and SYCL.
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://viskores.readthedocs.io/en/latest/index.html
 [ZFP]: https://computing.llnl.gov/projects/zfp
 

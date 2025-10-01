@@ -100,7 +100,7 @@ This table is an overview of the status of the different CPU-only deployments of
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center">✅</td><!-- Desktop -->
       <td class="verified" style="text-align: center">✅</td><!-- Docker -->
@@ -154,5 +154,5 @@ This table is an overview of the status of the different CPU-only deployments of
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
 [ZFP]: https://computing.llnl.gov/projects/zfp

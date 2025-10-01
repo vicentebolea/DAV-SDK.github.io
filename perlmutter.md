@@ -112,7 +112,7 @@ for the NVHPC compilers, in particular how they wrap MPI and CUDA.
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center" markdown="span">✅</td><!-- GCC -->
       <td class="verified" style="text-align: center">✅</td><!-- GCC + CUDA -->
@@ -147,9 +147,9 @@ for the NVHPC compilers, in particular how they wrap MPI and CUDA.
 
 <span id="visit_vtkm">**VisIt**</span> - VTK-m enabled GPU support for CUDA and ROCm is available VisIt, but is not officially tested as part of the DAV-SDK due to ([HDF5 conflict](#visit_hdf5_conflict)) only recently being resolved.
 
-<span id="vtkm_nvhpc">**VTK-m**</span> - VTK-M NVHPC using CUDA.
+<span id="vtkm_nvhpc">**Viskores**</span> - Viskores NVHPC using CUDA.
 
-<span id="zfp_nvhpc">**VTK-m**</span> - VTK-M NVHPC using CUDA.
+<span id="zfp_nvhpc">**ZFP**</span> - ZFP NVHPC using CUDA.
 
 [back](./)
 
@@ -160,6 +160,6 @@ for the NVHPC compilers, in particular how they wrap MPI and CUDA.
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
 [ZFP]: https://computing.llnl.gov/projects/zfp
 

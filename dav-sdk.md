@@ -82,7 +82,7 @@ layout: default
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center">✅</td><!-- CPU -->
       <td class="verified" style="text-align: center">✅</td><!-- CUDA -->
@@ -119,7 +119,7 @@ layout: default
 
 <span id="diy">**DIY**</span> - Not yet in DAV SDK.
 
-<span id="paraview_sycl">**ParaView**</span> - ParaView using oneAPI does not support building SYCL kernels for VTK-m filters in released versions.
+<span id="paraview_sycl">**ParaView**</span> - ParaView using oneAPI does not support building SYCL kernels for Viskores filters in released versions.
 
 <span id="visit_hdf5_conflict">**VisIt**</span> - VisIt utilizes a VTK version locked to a Python that is not compatible with the Python requirements of PyH5, the HDF5 python interface used by Cinema.
 
@@ -138,5 +138,5 @@ layout: default
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
 [ZFP]: https://computing.llnl.gov/projects/zfp

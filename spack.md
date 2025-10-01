@@ -82,7 +82,7 @@ layout: default
     </tr>
     <tr>
       <td markdown="span">
-        [VTK-m][VTK-m]
+        [Viskores][Viskores]
       </td>
       <td class="verified" style="text-align: center">✅</td><!-- CPU -->
       <td class="verified" style="text-align: center">✅</td><!-- CUDA -->
@@ -138,6 +138,5 @@ layout: default
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
 [ZFP]: https://computing.llnl.gov/projects/zfp
-
