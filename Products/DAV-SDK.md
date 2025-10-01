@@ -19,7 +19,7 @@ The DAV-SDK, or Data, Analysis, and Visualization Software Development Toolkit, 
         <strong>Impact</strong>
       </td>
       <td>
-        We designed the DAV-SDK Spack meta-package to build and deploy a collection of DAV SDK member packages, including ADIOS, Ascent, Catalyst, DIY, HDF5, PNetCDF, ParaView, VisIt, Viskores (formerly VTK-m), and ZFP. This capability enables optimal features for specific environments and facilitates interoperability with other packages within the DAV SDK.
+        We designed the DAV-SDK Spack meta-package to build and deploy a collection of DAV SDK member packages, including ADIOS2, Ascent, Catalyst, DIY, HDF5, PNetCDF, ParaView, VisIt, Viskores (formerly VTK-m), and ZFP. This capability enables optimal features for specific environments and facilitates interoperability with other packages within the DAV SDK.
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ The DAV-SDK, or Data, Analysis, and Visualization Software Development Toolkit, 
         <strong>Quality</strong>
       </td>
       <td>
-        The DAV-SDK, while still in its early stages, benefits from quality assurance provided by Spack and the continuous integration and testing of member packages such as ADIOS, Ascent, Catalyst, DIY, HDF5, PNetCDF, ParaView, VisIt, Viskores (formerly VTK-m), and ZFP.
+        The DAV-SDK, while still in its early stages, benefits from quality assurance provided by Spack and the continuous integration and testing of member packages such as ADIOS2, Ascent, Catalyst, DIY, HDF5, PNetCDF, ParaView, VisIt, Viskores (formerly VTK-m), and ZFP.
       </td>
     </tr>
   </tbody>

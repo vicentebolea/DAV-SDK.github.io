@@ -1,8 +1,8 @@
-## ADIOS
+## ADIOS2
 
 ### Description
 
-ADIOS, the Adaptable Input/Output (I/O) System, transports data as groups of self-describing variables and attributes across different media types (such as files, wide-area networks, and remote direct memory access) using a common application programming interface for all transport modes. ADIOS focuses on I/O scalable performance, adaptability, and ease of use.
+ADIOS2, the Adaptable Input/Output (I/O) System, transports data as groups of self-describing variables and attributes across different media types (such as files, wide-area networks, and remote direct memory access) using a common application programming interface for all transport modes. ADIOS2 focuses on I/O scalable performance, adaptability, and ease of use.
 
 ### Impact, Sustainability, and Quality
 
@@ -19,7 +19,7 @@ ADIOS, the Adaptable Input/Output (I/O) System, transports data as groups of sel
         <strong>Impact</strong>
       </td>
       <td>
-        ADIOS is a scalable I/O solution that provides high I/O performance for applications from a single computer to exascale supercomputers. It is deployed at all major DOE compute facilities and used by high-profile applications in their daily production runs, including several DOE applications, such as WarpX, ImpactX, XGC, GENE, GEM, E3SM, S3D, Bout++, and GTC, and other data-intensive applications, like SPECFEM3D_GLOBE, PIConGPU, GE Research’ CFD simulation, TAE fusion simulations, etc.
+        ADIOS2 is a scalable I/O solution that provides high I/O performance for applications from a single computer to exascale supercomputers. It is deployed at all major DOE compute facilities and used by high-profile applications in their daily production runs, including several DOE applications, such as WarpX, ImpactX, XGC, GENE, GEM, E3SM, S3D, Bout++, and GTC, and other data-intensive applications, like SPECFEM3D_GLOBE, PIConGPU, GE Research’ CFD simulation, TAE fusion simulations, etc.
       </td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@ ADIOS, the Adaptable Input/Output (I/O) System, transports data as groups of sel
         <strong>Sustainability</strong>
       </td>
       <td>
-        ADIOS's fundamental capabilities are file-based storage I/O and various in situ data transfers, namely in memory, in the system, and in wide-area-network staging. The continued support of these capabilities in updated or new systems and evolving or new applications is highly dependent on DOE funding.
+        ADIOS2's fundamental capabilities are file-based storage I/O and various in situ data transfers, namely in memory, in the system, and in wide-area-network staging. The continued support of these capabilities in updated or new systems and evolving or new applications is highly dependent on DOE funding.
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ ADIOS, the Adaptable Input/Output (I/O) System, transports data as groups of sel
         <strong>Quality</strong>
       </td>
       <td>
-        ADIOS has well-established software management and testing processes, including public repository, bug tracking, documentation, and CI processes for many platforms.
+        ADIOS2 has well-established software management and testing processes, including public repository, bug tracking, documentation, and CI processes for many platforms.
       </td>
     </tr>
   </tbody>
