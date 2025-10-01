@@ -26,6 +26,5 @@ layout: default
 [Ascent]: https://github.com/Alpine-DAV/ascent
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
-[SENSEI]: https://sensei-insitu.org/
 [VisIt]: https://visit-dav.github.io/visit-website/
 [VTK-m]: https://m.vtk.org

@@ -143,8 +143,6 @@ This table is an overview of the status of the different CPU-only deployments of
 
 <span id="paraview_oneapi_python">**ParaView**</span> - Failure to build a number of Python modules with OneAPI.
 
-<span id="sensei_catalyst">**SENSEI**</span> - SENSEI is developing updates to support ParaView v5.11 and Catalyst 2.
-
 [back](./)
 
 [ADIOS2]: https://csmd.ornl.gov/software/adios2
