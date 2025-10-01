@@ -19,7 +19,8 @@ ZFP is an open source library for compressed floating-point and integer arrays t
         <strong>Impact</strong>
       </td>
       <td>
-        ...
+        ZFP is a high throughput lossy floating poing compression library for d-dimentional data.
+        ZFP can be used with ADIOS2, Catalyst, and other tools to enable effecient storage and streaming of large datasets for visualization and analysis in the Exascale era.
       </td>
     </tr>
     <tr>
@@ -27,7 +28,8 @@ ZFP is an open source library for compressed floating-point and integer arrays t
         <strong>Sustainability</strong>
       </td>
       <td>
-        ...
+        ZFP has a number of contributors from across the DOE and elsewhere.
+        Funding goes towards supporting emergent platforms, performance improvements, and bug fixes.
       </td>
     </tr>
     <tr>
@@ -35,7 +37,7 @@ ZFP is an open source library for compressed floating-point and integer arrays t
         <strong>Quality</strong>
       </td>
       <td>
-        ...
+        ZFP runs a number of quality tests across all supported platforms to maintain code integretity over time.
       </td>
     </tr>
   </tbody>
