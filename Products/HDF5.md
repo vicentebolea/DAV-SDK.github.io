@@ -85,4 +85,4 @@ HDF5 is a self-describing, portable, and hierarchical file format designed for h
 [HDF5]: https://www.hdfgroup.org/solutions/hdf5/
 [HDF5-DOC]: https://portal.hdfgroup.org/documentation/
 [HDF5-REPO]: https://github.com/HDFGroup/hdf5
-[HDF5-Spack]: https://github.com/spack/spack/tree/c3576f712d3a3abb7137d29d30c02f0c7e637122/var/spack/repos/builtin/packages/hdf5
+[HDF5-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/hdf5/package.py

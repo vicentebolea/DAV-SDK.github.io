@@ -85,4 +85,4 @@ ADIOS2, the Adaptable Input/Output (I/O) System, transports data as groups of se
 [ADIOS2]: https://csmd.ornl.gov/software/adios2
 [ADIOS2-DOC]: https://adios2.readthedocs.io/en/v2.10.0/
 [ADIOS2-REPO]: https://github.com/ornladios/ADIOS2
-[ADIOS2-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/adios2/package.py
+[ADIOS2-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/adios2/package.py

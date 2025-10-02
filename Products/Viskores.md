@@ -87,4 +87,4 @@ Viskores provides the fundamental capability to execute visualization algorithms
 [Viskores]: https://m.vtk.org/
 [Viskores-DOC]: https://Viskores.readthedocs.io/en/v2.10.0/
 [Viskores-REPO]: https://github.com/ornladios/Viskores
-[Viskores-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/vtk-m/package.py
+[Viskores-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/vtk-m/package.py

@@ -87,4 +87,4 @@ Catalyst with ParaView forms the backbone of DOE’s production visualization at
 [Catalyst]: https://www.paraview.org/insitu/
 [Catalyst-DOC]: https://docs.paraview.org/en/latest/Catalyst/index.html
 [Catalyst-REPO]: https://gitlab.kitware.com/paraview/catalyst
-[Catalyst-Spack]: https://github.com/spack/spack/tree/develop/var/spack/repos/builtin/packages/libcatalyst
+[Catalyst-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/libcatalyst/package.py

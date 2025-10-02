@@ -87,4 +87,4 @@ ParaView and Catalyst form the backbone of DOE’s production visualization at s
 [ParaView]: https://www.paraview.org/
 [ParaView-DOC]: https://www.paraview.org/resources/
 [ParaView-REPO]: https://gitlab.kitware.com/paraview/paraview
-[ParaView-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/paraview/package.py
+[ParaView-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/paraview/package.py

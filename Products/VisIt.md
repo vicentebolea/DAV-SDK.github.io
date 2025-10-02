@@ -87,4 +87,4 @@ VisIt is a scalable production visualization and analysis tool widely used throu
 [VisIt]: https://visit-dav.github.io/visit-website/
 [VisIt-DOC]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_help/index.html
 [VisIt-REPO]: https://github.com/visit-dav/visit
-[VisIt-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/visit/package.py
+[VisIt-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/visit/package.py

@@ -84,4 +84,4 @@ The Ascent in situ infrastructure is designed for leading-edge supercomputers an
 
 [Ascent-DOC]: https://ascent.readthedocs.io/
 [Ascent-REPO]: https://github.com/Alpine-DAV/ascent
-[Ascent-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/ascent/package.py
+[Ascent-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/ascent/package.py

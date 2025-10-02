@@ -84,4 +84,4 @@ PnetCDF is a high-level library providing parallel and scalable access to Unidat
 [PNetCDF]: https://parallel-netcdf.github.io
 [PNetCDF-DOC]: https://parallel-netcdf.github.io/wiki/Documentation.html
 [PNetCDF-REPO]: https://github.com/Parallel-NetCDF/PnetCDF
-[PNetCDF-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/parallel-netcdf/package.py
+[PNetCDF-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/parallel-netcdf/package.py

@@ -87,4 +87,4 @@ ZFP is an open source library for compressed floating-point and integer arrays t
 [ZFP]: https://computing.llnl.gov/projects/zfp
 [ZFP-DOC]: https://zfp.readthedocs.io/
 [ZFP-REPO]: http://github.com/LLNL/zfp
-[ZFP-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/zfp/package.py
+[ZFP-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/zfp/package.py

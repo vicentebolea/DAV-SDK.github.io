@@ -82,4 +82,4 @@ The DAV-SDK, or Data, Analysis, and Visualization Software Development Toolkit, 
 
 [DAV-SDK]: https://dav-sdk.github.io/
 [DAV-SDK-REPO]: [https://github.com/ornladios/ADIOS2](https://github.com/DAV-SDK/davsdk)
-[DAV-SDK-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/ecp-data-vis-sdk/package.py
+[DAV-SDK-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/spack_configs_dav_sdk/package.py
