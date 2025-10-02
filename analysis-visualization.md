@@ -14,7 +14,7 @@ layout: default
   visualization framework.
 * [VisIt][VisIt]: An open source, interactive, scalable, visualization,
   animation and analysis tool.
-* [VTK-m][VTK-m]: A toolkit if scientific visualization algorithms for emerging
+* [Viskores][Viskores]: A toolkit if scientific visualization algorithms for emerging
   processor architectures.
 
 [back](./)
@@ -27,4 +27,4 @@ layout: default
 [DIY]: https://gitlab.kitware.com/diatomic/diy
 [ParaView]: https://paraview.org
 [VisIt]: https://visit-dav.github.io/visit-website/
-[VTK-m]: https://m.vtk.org
+[Viskores]: https://m.vtk.org
