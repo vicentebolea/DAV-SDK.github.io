@@ -1,5 +1,7 @@
 ## DIY
 
+[back](../scorecards.md)
+
 ### Description
 
 DIY is an open-source package of scalable building blocks for data movement tailored to the needs of large-scale parallel analysis and visualization workloads. Block parallelism is DIY’s parallel programming model for scalable data analysis. In this model, data are decomposed into blocks; blocks are assigned to processing elements; computation is described over these blocks, and communication between blocks is defined by reusable patterns.
@@ -75,6 +77,8 @@ DIY is an open-source package of scalable building blocks for data movement tail
 </table>
 
 **Note**: Working with the OASIS leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
+
+[back](../scorecards.md)
 
 [DIY-DOC]: https://diatomic.github.io/diy/
 [DIY-REPO]: https://gitlab.kitware.com/diatomic/diy
